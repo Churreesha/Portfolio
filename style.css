@@ -80,6 +80,35 @@
 }
 /* About End */
 
+/* Skills Start */
+
+.text-center h2 {
+    color:#f1a5cf;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: monospace;
+    color: #f1a5cf; 
+    text-transform: uppercase;
+    font-weight: lighter;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+#skills.container.text-center{
+    color:#f1a5cf;
+    font-size: 1.9rem;
+    font-weight: bolder;
+    font-family: monospace;
+    color: #f1a5cf; 
+    text-transform: uppercase;
+    font-weight: lighter;
+    word-spacing: 5px;
+    letter-spacing: 2px;  
+}
+
+
+/* Skills End */
+
 
 /* Digital Presence Start */
 

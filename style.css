@@ -131,5 +131,84 @@ a.btn.btn-info{
 
 /* Digital Presence End */
 
+/* Making site responsive for small screens */
+@media (min-width: 280px) and (max-width: 670px) {
+    .heading-content {
+        position: center;
+        color:#f1a5cf;
+        max-width: 100%;
+        font-size: 2rem;
+        top: 7.5%;
+        margin-bottom: 2px;
+    }
+    
+    .heading-content h5 {
+        font-size: 2rem;
+        font-weight: 200;
+        font-family: monospace;
+        color:rgba(252, 249, 249, 0.975) ;
+        
+    }
+    
+    .heading-content h1 {
+        font-size: 2rem;
+        font-weight: bolder;
+        font-family: 'Monserrat', sans-serif;
+        color:rgba(252, 249, 249, 0.975) ; 
+    }
+    
+    .heading-content p {
+        font-size: 1.2rem;
+        font-weight: bolder;
+        font-family: 'Monserrat', sans-serif;
+        color: black; 
+        text-transform: uppercase;
+        word-spacing: 5px;
+        letter-spacing: 2.5px;
+    } 
+    .post-heading h3{
+        color: #f1a5cf;
+        font-size: 1.5rem;
+        top: 5%;
+    }
+    
+    .col-lg-3 h2{
+        color:#f1a5cf;
+        font-size: 1rem;
+        font-weight: bolder;
+        font-family: monospace;
+        color: #f1a5cf; 
+        text-transform: uppercase;
+        font-weight: lighter;
+        word-spacing: 5px;
+        letter-spacing: 2px;
+    }
 
+    #skills.container.text-center{
+        color:#f1a5cf;
+        font-size: 1rem;
+        font-weight: bolder;
+        font-family: monospace;
+        color: #f1a5cf; 
+        text-transform: uppercase;
+        font-weight: lighter;
+        word-spacing: 5px;
+        letter-spacing: 2px;  
+    }
+
+    .digital-heading {
+        color:#f1a5cf;
+        font-size: 0.5rem;
+        font-weight: bolder;
+        font-family: monospace;
+        color: #f1a5cf; 
+        text-transform: uppercase;
+        font-weight: lighter;
+        word-spacing: 5px;
+        letter-spacing: 2px;   
+    }
+    
+       
+    
+}
 
